@@ -1,4 +1,3 @@
-# Coursera Exploratory Data Analysis Assignment 
 # Plot 1:  
 
  
