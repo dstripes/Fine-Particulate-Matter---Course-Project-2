@@ -32,8 +32,6 @@ You must address the following questions and tasks in your exploratory analysis.
 
 6.Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions? 
 
- (Coursera, Johns Hopkins, Roger D. Peng)
-
 
 Making and Submitting Plots
 
@@ -46,4 +44,3 @@ Create a separate R code file (plot1.R, plot2.R, etc.) that constructs the corre
 Upload the PNG file on the Assignment submission page
 
 Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment. 
- (Coursera, Johns Hopkins, Roger D. Peng)
